@@ -7,5 +7,5 @@ EN-us
 A bookmarklet for the study page of Estácio University.
 This bookmarklet creates a light-grey version of the studies page, whitch makes it way better to read whithout eye strain.
 
-##demo
+## Demo
 ![bookmarklet demo](/demo.gif)
